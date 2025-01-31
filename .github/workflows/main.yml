@@ -1,5 +1,5 @@
 # Name of workflow
-name: Lint workflow
+name: Lint workflow for Node.js
 
 # Trigger workflow on all pull requests
 on:
